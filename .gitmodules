@@ -1,0 +1,3 @@
+[submodule "web/lib/jquery-week-calendar"]
+	path = web/lib/jquery-week-calendar
+	url = https://github.com/themouette/jquery-week-calendar.git
